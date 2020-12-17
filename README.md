@@ -1,0 +1,3 @@
+# FPGA_MNIST_RandomForest
+
+MNISTの手書き文字画像のクラス分類を行うランダムフォレストモデルをVerilogで実装したものです。
